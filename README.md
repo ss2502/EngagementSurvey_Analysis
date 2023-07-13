@@ -1,2 +1,4 @@
 # EngagementSurvey_Analysis
 The project involves collecting survey data from employees, analyzing the responses, and deriving meaningful insights to improve employee satisfaction and overall organizational performance.
+The Employee Engagement Survey results for "How's Work Going" dataset, obtained from the Open Government portal, provides insights into the employee engagement levels within an organization. The dataset consists of survey responses collected from employees regarding various aspects of their work experience.
+By analyzing this dataset, organizations can gain a deeper understanding of their employees' sentiments and engagement levels. They can identify areas of strength and improvement, enabling them to implement targeted strategies and initiatives to enhance employee satisfaction and overall organizational performance.
